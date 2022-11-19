@@ -23,4 +23,4 @@ main 14 - Venda de 12 meses e 10 funcionários. <br>
 main 15 - Troca posição de colunas por linhas: Desenvolver uma função que, dada uma matriz de inteiros M10x10, troque de posição dos elementos da linha L com os valores da coluna C. Caso a troca seja possível, a função deverá retornar a constante TRUE; caso contrário, FALSE. <br>
 main 16 - Troca de posição de colunas por linhas - versão 2 <br>
 main 17 - Matriz 3 usando outras 2 matrizes <br>
-main 18 -  Dada uma matriz MLINHAxCOLUNA, onde LINHA e COLUNA são constantes, e uma linha L, desenvolver uma função que retorne um vetor de tamanho COLUNA contendo, em cada posição, a quantidade de vezes que os elementos da linha L encontram-se nas demais linhas da matriz. <br>
+main 18 -  Vetor de quantas vezs os números da linha aparecem na matriz: Dada uma matriz MLINHAxCOLUNA, onde LINHA e COLUNA são constantes, e uma linha L, desenvolver uma função que retorne um vetor de tamanho COLUNA contendo, em cada posição, a quantidade de vezes que os elementos da linha L encontram-se nas demais linhas da matriz. <br>
