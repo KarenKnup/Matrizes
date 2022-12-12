@@ -26,4 +26,3 @@ main 17 - Matriz 3 usando outras 2 matrizes <br>
 main 18 -  Vetor de quantas vezs os números da linha aparecem na matriz: Dada uma matriz MLINHAxCOLUNA, onde LINHA e COLUNA são constantes, e uma linha L, desenvolver uma função que retorne um vetor de tamanho COLUNA contendo, em cada posição, a quantidade de vezes que os elementos da linha L encontram-se nas demais linhas da matriz. <br>
 main 19 - Verifica se a matriz é crescente<br>
 main 20 - Inverte números das linhas. <br>
-main 21 - Inverte números das colunas.
