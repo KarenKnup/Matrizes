@@ -39,6 +39,8 @@ void Inverte (int m[L][C], int l){
 }
   
 int main(void){
+      int M[L][C]={1,2,3,4,5,6,7,8,9},l;
+
   exibir(M);
   printf("\n\n\n------- INVERTIDA ------\n");
   printf("\nDigite uma linha: ");
