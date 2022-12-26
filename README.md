@@ -27,3 +27,4 @@ main 18 -  Vetor de quantas vezs os números da linha aparecem na matriz: Dada u
 main 19 - Verifica se a matriz é crescente<br>
 main 20 - Inverte números das linhas. <br>
 main 21 - Inverter uma matriz <br>
+main 22 - Inverte os números de certa linha
