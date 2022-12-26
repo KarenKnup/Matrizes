@@ -45,8 +45,13 @@ int main(void){
   printf("\n\n\n------- INVERTIDA ------\n");
   printf("\nDigite uma linha: ");
   scanf("%d",&l);
-  Inverte(M,l);
-  exibir(M);
-  
+    if(l>0 && l<=C-1){
+      Inverte(M,l);
+      exibir(M);
+    } else {
+     printf("\nEssa linha não existe! Tente novamente: ");
+     scanf("%d",&l);
+    }
+    
   return 0;
 }
