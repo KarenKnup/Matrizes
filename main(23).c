@@ -4,8 +4,8 @@ ordem N (ou seja, N linhas e N colunas), desenvolver
 uma função que determine se as seguintes somas
 resultam no mesmo valor:
 
-a. Soma de cada linha; -- OK
-b. Soma de cada coluna; -- OK
+a. Soma de cada linha; 
+b. Soma de cada coluna; 
 c. Soma da diagonal principal;
 d. Soma da diagonal secundária.
 
