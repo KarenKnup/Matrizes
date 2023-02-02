@@ -28,4 +28,5 @@ main 19 - Verifica se a matriz é crescente<br>
 main 20 - Inverte números das linhas. <br>
 main 21 - Inverter uma matriz <br>
 main 22 - Inverte os números de certa linha <br>
-main 23 - Considerando a existência de uma matriz quadrada, de ordem N (ou seja, N linhas e N colunas), desenvolver uma função que determine se as seguintes somas resultam no mesmo valor
+main 23 - Considerando a existência de uma matriz quadrada, de ordem N (ou seja, N linhas e N colunas), desenvolver uma função que determine se as seguintes somas resultam no mesmo valor <br>
+main 24 - Multiplicação de matrizes
