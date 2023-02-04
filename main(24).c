@@ -2,6 +2,17 @@
 
 #define TAM 10
 
+/* void Multiplica (int m1[TAM][TAM], int m2[TAM][TAM], int l, int c, int multiplica[TAM][TAM]){
+  for(int i=0; i<l; i++){ //m1 e m2 com mesmas linhas e colunas
+    for(int j=0; j<c; j++){
+      multiplica[i][j]=0;
+      for(int k=0; k<c; k++){
+        multiplica[i][j]+=m1[i][k]*m2[k][j];
+      }
+    }
+  }  
+}*/ 
+
 void PreencheMatriz(int l, int c, int m[TAM][TAM]){
   int i,j;
   for(i=0; i<l; i++){
