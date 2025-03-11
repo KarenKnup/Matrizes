@@ -1,5 +1,12 @@
 <div align="center">
-<h1>Matrizes</h1><br><br> </div>
+<h1>Matrizes</h1> 
+
+<h3>Sobre / About</h3>
+
+`Matrizes são conjuntos bidimensionais que armazenam dados em linhas e colunas, comumente usadas em cálculos matemáticos.`
+
+`Matrices are two-dimensional arrays that store data in rows and columns, commonly used in mathematical computations.`
+</div>
 
 Arquivo | Conteúdo
 --------|-----------
